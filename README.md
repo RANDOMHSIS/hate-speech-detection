@@ -36,8 +36,8 @@ Online communities need automated moderation. This project builds a hate speech 
 
 ## Installation
 ```bash
-git clone https://github.com/<RANDOMHSIS>/<hate-speech-detection>.git
-cd <hate-speech-detection>
+git clone https://github.com/RANDOMHSIS/hate-speech-detection.git
+cd hate-speech-detection
 pip install -r requirements.txt
 ```
 
